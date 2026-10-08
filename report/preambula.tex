@@ -17,17 +17,33 @@
 \usepackage{array}
 \usepackage{indentfirst}
 \usepackage{titlesec}
+\usepackage{tocloft}
 
-% Заголовки
-\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
-\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}{}
+% Заголовки РАЗДЕЛОВ по центру
+\titleformat{\section}
+  {\centering\large\bfseries}
+  {\thesection}
+  {1em}
+  {}
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {\thesubsection}
+  {1em}
+  {}
+\titleformat{\subsubsection}
+  {\normalsize\bfseries}
+  {\thesubsubsection}
+  {1em}
+  {}
 
-% Для списков
+% Списки: длинное тире
 \setlist[itemize]{label=---, leftmargin=*}
 \setlist[enumerate]{leftmargin=*}
 
+% Содержание — заголовок СЛЕВА
 \renewcommand{\contentsname}{Содержание}
-\renewcommand{\refname}{Список использованных источников}
 
 \numberwithin{equation}{section}
+
+% Абзацный отступ
+\setlength{\parindent}{1.25cm}

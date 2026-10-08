@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.8)  8 OCT 2026 23:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.8)  9 OCT 2026 01:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,11 +687,49 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen199
 \titlewidthlast=\dimen256
 \titlewidthfirst=\dimen257
+)
+(C:\Users\РђР»РµРєСЃРµР№\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\toclof
+t.sty
+Package: tocloft 2026-08-21 v3.0b parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 64.
+\cftparskip=\skip60
+\cftbeforetoctitleskip=\skip61
+\cftaftertoctitleskip=\skip62
+\cftbeforepartskip=\skip63
+\cftpartnumwidth=\skip64
+\cftpartindent=\skip65
+\cftbeforesecskip=\skip66
+\cftsecindent=\skip67
+\cftsecnumwidth=\skip68
+\cftbeforesubsecskip=\skip69
+\cftsubsecindent=\skip70
+\cftsubsecnumwidth=\skip71
+\cftbeforesubsubsecskip=\skip72
+\cftsubsubsecindent=\skip73
+\cftsubsubsecnumwidth=\skip74
+\cftbeforeparaskip=\skip75
+\cftparaindent=\skip76
+\cftparanumwidth=\skip77
+\cftbeforesubparaskip=\skip78
+\cftsubparaindent=\skip79
+\cftsubparanumwidth=\skip80
+\cftbeforeloftitleskip=\skip81
+\cftafterloftitleskip=\skip82
+\cftbeforefigskip=\skip83
+\cftfigindent=\skip84
+\cftfignumwidth=\skip85
+\c@lofdepth=\count321
+\c@lotdepth=\count322
+\cftbeforelottitleskip=\skip86
+\cftafterlottitleskip=\skip87
+\cftbeforetabskip=\skip88
+\cfttabindent=\skip89
+\cfttabnumwidth=\skip90
 ))
 (C:\Users\РђР»РµРєСЃРµР№\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
 ckend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count321
+\l__color_backend_stack_int=\count323
 ) (report.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 8.
@@ -758,16 +796,16 @@ LaTeX Info: Redefining \th on input line 3.
 (C:\Users\РђР»РµРєСЃРµР№\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
 pp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
+\scratchcounter=\count324
 \scratchdimen=\dimen258
 \scratchbox=\box61
-\nofMPsegments=\count323
-\nofMParguments=\count324
+\nofMPsegments=\count325
+\nofMParguments=\count326
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count325
+\MPscratchCnt=\count327
 \MPscratchDim=\dimen259
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
+\MPnumerator=\count328
+\makeMPintoPDFobject=\count329
 \everyMPtoPDFconversion=\toks32
 )
 (C:\Users\РђР»РµРєСЃРµР№\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
@@ -789,13 +827,13 @@ Package hyperref Info: Link coloring OFF on input line 3.
 \openout3 = `report.out'.
 
  (report.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (C:\Users\РђР»РµРєСЃРµР№\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
 fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (C:\Users\РђР»РµРєСЃРµР№\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
 fd
@@ -807,54 +845,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (intro.tex [3
 
 {C:/Users/РђР»РµРєСЃРµР№/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (10.0756pt too wide) in paragraph at lines 19--20
+Overfull \hbox (10.0756pt too wide) in paragraph at lines 18--19
 []\T2A/cmr/m/n/12 разработать про-грамм-ное обес-пе-че-ние, ре-а-ли-зу-ю-щее вы
 -бран-ные ал-го-рит-мы и струк-
  []
 
-[4]
-Overfull \hbox (3.54875pt too wide) in paragraph at lines 23--24
-[]\T2A/cmr/m/n/12 Решение пе-ре-чис-лен-ных за-дач опи-сы-ва-ет-ся в со-от-вет-
-ству-ю-щих раз-де-лах расчјтно-
- []
-
-[5]) (analytic_part.tex [6] [7]
-Overfull \hbox (0.74605pt too wide) in paragraph at lines 79--80
-[]\T2A/cmr/m/n/12 Алгоритм Вар-но-ка (area subdivision) ра-бо-та-ет в про-стран
--стве изоб-ра-же-ния. Экран
- []
-
-[8]
-Overfull \hbox (32.81654pt too wide) in paragraph at lines 99--100
-[]\T2A/cmr/m/n/12 После опре-де-ле-ния ви-ди-мых по-верх-но-стей необ-хо-ди-мо 
-вы-пол-нить за-крас-ку (shading) [[]]. 
- []
-
-[9] [10] [11] [12]) (design_part.tex [13]) (tech_part.tex [14])
-(experimental_part.tex [15]) (conclusion.tex [16]) (links.tex [17])
-(additions.tex) [18] (report.aux)
+[4]) (analytic_part.tex [5] [6] [7] [8] [9] [10] [11]) (design_part.tex
+[12]) (tech_part.tex [13]) (experimental_part.tex [14]) (conclusion.tex
+[15]) (links.tex [16]) (additions.tex) [17] (report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 7CBC7BE9B4BFF988A7C052DEBB427A7B;7439.
+(rerunfilecheck)             Checksum: D3DE0B9939D0D51BC771A5949A94D341;7458.
  ) 
 Here is how much of TeX's memory you used:
- 14755 strings out of 467871
- 235270 string characters out of 5414020
- 659615 words of memory out of 5000000
- 43380 multiletter control sequences out of 15000+600000
- 635611 words of font info for 62 fonts, out of 8000000 for 9000
+ 15056 strings out of 467871
+ 240668 string characters out of 5414020
+ 668305 words of memory out of 5000000
+ 43682 multiletter control sequences out of 15000+600000
+ 637236 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,5n,82p,1328b,621s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,5n,82p,1289b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\РђР»РµРєСЃРµР№\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi6
-00\larm1200.pk> <C:\Users\РђР»РµРєСЃРµР№\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\labx1200.pk> <C:\Users\РђР»РµРєСЃРµР№\AppData\Local\MiKTeX\font
-s/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk>
-Output written on report.pdf (16 pages, 137238 bytes).
+00\labx1440.pk> <C:\Users\РђР»РµРєСЃРµР№\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\larm1200.pk> <C:\Users\РђР»РµРєСЃРµР№\AppData\Local\MiKTeX\font
+s/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\РђР»РµРєСЃРµР№\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk>
+Output written on report.pdf (15 pages, 124099 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 452 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
