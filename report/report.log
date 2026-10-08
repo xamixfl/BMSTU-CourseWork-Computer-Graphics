@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.8)  9 OCT 2026 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.8)  9 OCT 2026 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -861,10 +861,10 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D3DE0B9939D0D51BC771A5949A94D341;7458.
  ) 
 Here is how much of TeX's memory you used:
- 15056 strings out of 467871
- 240668 string characters out of 5414020
+ 15052 strings out of 467871
+ 240616 string characters out of 5414020
  668305 words of memory out of 5000000
- 43682 multiletter control sequences out of 15000+600000
+ 43678 multiletter control sequences out of 15000+600000
  637236 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,5n,82p,1289b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -873,9 +873,9 @@ Here is how much of TeX's memory you used:
 h/lh-t2a/dpi600\larm1200.pk> <C:\Users\Алексей\AppData\Local\MiKTeX\font
 s/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Алексей\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk>
-Output written on report.pdf (15 pages, 124099 bytes).
+Output written on report.pdf (15 pages, 122891 bytes).
 PDF statistics:
- 452 PDF objects out of 1000 (max. 8388607)
+ 448 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
  233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
