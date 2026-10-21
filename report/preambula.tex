@@ -1,8 +1,14 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[14pt,a4paper]{extarticle}
 
-\usepackage[T2A]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{russian}
+\setotherlanguage{english}
+
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Courier New}
+
 \usepackage{geometry}
 \geometry{left=30mm,right=20mm,top=20mm,bottom=20mm}
 \usepackage{setspace}
@@ -19,7 +25,9 @@
 \usepackage{titlesec}
 \usepackage{tocloft}
 
-% Заголовки РАЗДЕЛОВ по центру
+\renewcommand{\cfttoctitlefont}{\fontsize{14}{17}\selectfont\bfseries}
+\renewcommand{\cftaftertoctitle}{\par\vspace{1em}}
+
 \titleformat{\section}
   {\centering\large\bfseries}
   {\thesection}
@@ -36,14 +44,12 @@
   {1em}
   {}
 
-% Списки: длинное тире
 \setlist[itemize]{label=---, leftmargin=*}
 \setlist[enumerate]{leftmargin=*}
 
-% Содержание — заголовок СЛЕВА
-\renewcommand{\contentsname}{Содержание}
+\renewcommand{\cfttoctitlefont}{\large\bfseries}   % или просто \bfseries
+\renewcommand{\cftaftertoctitle}{\par\vspace{1em}}
+\addto\captionsrussian{\renewcommand{\contentsname}{СОДЕРЖАНИЕ}}
 
 \numberwithin{equation}{section}
-
-% Абзацный отступ
 \setlength{\parindent}{1.25cm}

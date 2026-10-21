@@ -1,30 +1,30 @@
-\babel@toc {russian}{}\relax 
-\contentsline {section}{ВВЕДЕНИЕ}{4}{Doc-Start}%
-\contentsline {section}{\numberline {1}Аналитическая часть}{5}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Формализация объектов синтезируемой сцены}{5}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Способы описания трёхмерных геометрических моделей на сцене}{6}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Способы задания поверхностных моделей}{6}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Анализ алгоритмов удаления невидимых линий и поверхностей}{7}{subsection.1.4}%
-\contentsline {subsubsection}{\numberline {1.4.1}Алгоритм Робертса}{7}{subsubsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.2}Алгоритм Варнока}{7}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}Алгоритм, использующий Z-буфер}{8}{subsubsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.4}Алгоритм прямой трассировки лучей}{8}{subsubsection.1.4.4}%
-\contentsline {subsubsection}{\numberline {1.4.5}Алгоритм обратной трассировки лучей}{8}{subsubsection.1.4.5}%
-\contentsline {subsubsection}{\numberline {1.4.6}Выбор оптимального алгоритма}{8}{subsubsection.1.4.6}%
-\contentsline {subsection}{\numberline {1.5}Анализ алгоритмов закраски}{8}{subsection.1.5}%
-\contentsline {subsubsection}{\numberline {1.5.1}Простая закраска}{9}{subsubsection.1.5.1}%
-\contentsline {subsubsection}{\numberline {1.5.2}Закраска по Гуро}{9}{subsubsection.1.5.2}%
-\contentsline {subsubsection}{\numberline {1.5.3}Закраска по Фонгу}{9}{subsubsection.1.5.3}%
-\contentsline {subsubsection}{\numberline {1.5.4}Выбор алгоритма закраски}{9}{subsubsection.1.5.4}%
-\contentsline {subsection}{\numberline {1.6}Анализ алгоритмов построения теней}{9}{subsection.1.6}%
-\contentsline {subsection}{\numberline {1.7}Анализ моделей освещения}{9}{subsection.1.7}%
-\contentsline {subsubsection}{\numberline {1.7.1}Модель Ламберта}{10}{subsubsection.1.7.1}%
-\contentsline {subsubsection}{\numberline {1.7.2}Модель Фонга}{10}{subsubsection.1.7.2}%
-\contentsline {subsubsection}{\numberline {1.7.3}Выбор модели освещения}{10}{subsubsection.1.7.3}%
-\contentsline {subsection}{\numberline {1.8}Постановка задачи}{10}{subsection.1.8}%
-\contentsline {section}{\numberline {2}Конструкторская часть}{12}{section.2}%
-\contentsline {section}{\numberline {3}Технологическая часть}{13}{section.3}%
-\contentsline {section}{\numberline {4}Исследовательская часть}{14}{section.4}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{15}{section.4}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{16}{section.4}%
-\contentsline {section}{ПРИЛОЖЕНИЕ А}{17}{section.4}%
+\xpg@aux {}{russian}
+\contentsline {section}{ВВЕДЕНИЕ}{5}{Doc-Start}%
+\contentsline {section}{\numberline {1}Аналитическая часть}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Формализация объектов синтезируемой сцены}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Способы описания трёхмерных геометрических моделей на сцене}{7}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Способы задания поверхностных моделей}{8}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Анализ алгоритмов удаления невидимых линий и поверхностей}{9}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Алгоритм Робертса}{9}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Алгоритм Варнока}{9}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Алгоритм, использующий Z-буфер}{9}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Алгоритм прямой трассировки лучей}{10}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}Алгоритм обратной трассировки лучей}{10}{subsubsection.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}Выбор оптимального алгоритма}{10}{subsubsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.5}Анализ алгоритмов закраски}{11}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Простая закраска}{11}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Закраска по Гуро}{11}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Закраска по Фонгу}{11}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Выбор алгоритма закраски}{11}{subsubsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.6}Анализ алгоритмов построения теней}{11}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Анализ моделей освещения}{12}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Модель Ламберта}{12}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}Модель Фонга}{12}{subsubsection.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}Выбор модели освещения}{12}{subsubsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.8}Постановка задачи}{13}{subsection.1.8}%
+\contentsline {section}{\numberline {2}Конструкторская часть}{15}{section.2}%
+\contentsline {section}{\numberline {3}Технологическая часть}{16}{section.3}%
+\contentsline {section}{\numberline {4}Исследовательская часть}{17}{section.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{18}{section.4}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{19}{section.4}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А}{20}{section.4}%
