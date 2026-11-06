@@ -1,10 +1,27 @@
 \newpage
-\begin{center}
-\Large\bfseries СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ
-\end{center}
-\addcontentsline{toc}{section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
-\vspace{1.5em}
+\begingroup
+\urlstyle{same}
+\renewcommand{\refname}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
+\titleformat{name=\section,numberless}
+  {\centering\Large\bfseries}{}{0pt}{}
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.}
+\makeatother
 
-% Список источников будет заполнен позднее.
+\begin{thebibliography}{3}
+\phantomsection
+\addcontentsline{toc}{section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
+
+\bibitem{utexas-scenic-design}
+A Day in the Life: Scenic Design~// University of Texas at Austin. --- 2016. --- URL: \url{https://sites.utexas.edu/theatredance-blog/2016/11/30/a-day-in-the-life-of-a-scenic-designer/} (дата обращения: 22.10.2026). --- Текст~: электронный.
+
+\bibitem{simpson-eva2018}
+Simpson~J. How Do You Know When You Have Created a Bad Production?~// Proceedings of EVA London 2018. --- 2018. --- P.~298--305. --- DOI: \href{https://doi.org/10.14236/ewic/EVA2018.58}{10.14236/ewic/EVA2018.58}.
+
+\bibitem{wysiwyg-miss-saigon}
+wysiwyg Modernizes West End Theatre Lighting Design In Miss Saigon~// Live Design. --- 2015. --- URL: \url{https://www.livedesignonline.com/news/wysiwyg-modernizes-west-end-theatre-lighting-design-miss-saigon} (дата обращения: 22.10.2026). --- Текст~: электронный.
+
+\end{thebibliography}
+\endgroup
 
 \newpage
